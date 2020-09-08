@@ -1,17 +1,3 @@
-# Real time Swift iOS Chat with Firebase - Messenger Clone
-
-This is an extremely simple chat app source code of an iOS Swift Chat app. It stores and retrieves data to/from Firebase Firestore. The app design is inspired by Facebook Messenger. Clone the iOS Chat App Source Code and add a fully fledged chat to your app in minutes.
-
-Learn how to build your own iOS chat feature with only a few lines of code. Clone this iOS chat app source code and get started by following the steps below. For more details, check out our detailed technical documentation on the official <a href="https://www.iosapptemplates.com/templates/swift-ios-chat-firebase-realtime">iOS Swift Chat app</a> page.
-
-<b> This project has now been updated to Swift 5. Make sure you run Xcode's Legacy Build System (File -> Workspace Settings).</b> 
-
-<a href="https://www.iosapptemplates.com/templates/swift-ios-chat-firebase-realtime"><img width="270px" src="https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png" /></a>
-<a href="https://www.iosapptemplates.com/templates/swift-ios-chat-firebase-realtime"><img width="270px" src="https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-room.png" /></a>
-<a href="https://www.iosapptemplates.com/templates/swift-ios-chat-firebase-realtime"><img width="270px" src="https://www.iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-room-keyboard.png" /></a>
-
-<br/>
-
 ## How to run a demo app
 
 1. Download the source code by cloning this repository
